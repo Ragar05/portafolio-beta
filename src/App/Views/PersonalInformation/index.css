@@ -1,0 +1,35 @@
+.datos-personales {
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: #0192b6;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 600px;
+    margin-bottom: 20rem;
+}
+
+h2 {
+font-size: 24px;
+margin-bottom: 10px;
+}
+
+ul {
+list-style-type: none;
+padding: 0;
+}
+
+li {
+font-size: 18px;
+margin-bottom: 5px;
+}
+
+a {
+color: #0077b5;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
